@@ -1,4 +1,7 @@
-public class serviçoMenssagem {
+package RedeSocial;
+
+
+public class servicoMenssagem {
     
     public void enviarMenssagem(){
         
